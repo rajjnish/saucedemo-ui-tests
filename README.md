@@ -2,6 +2,16 @@
 
 This project contains UI automation tests for the [SauceDemo](https://www.saucedemo.com) website using Playwright with JavaScript.
 
+## Prerequisites
+
+- Node.js  **v16+** installed
+
+verify installation:
+
+```bash
+node -v
+npm -v
+```
 
 ## Installation
 
