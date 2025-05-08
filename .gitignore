@@ -1,0 +1,7 @@
+# Ignore environment variables
+.env
+
+# Node modules and Playwright binaries
+node_modules/
+playwright-report/
+test-results/
